@@ -3,7 +3,7 @@
 		"_postman_id": "6ada0eff-b418-4ad9-b5d1-3ee8df85a022",
 		"name": "DHL Shipment Tracking API",
 		"description": "### DHL Shipment Tracking API\nThe unified DHL tracking experience.\nDetailed documentation and release notes are available at https://developer.dhl/api-reference/shipment-tracking.\n\nContact Support:\n Name: Support",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",		
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"	
 	},
 	"item": [
 		{
